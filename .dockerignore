@@ -1,0 +1,6 @@
+.idea
+.gitignore
+venv
+test.http
+baseball-alert.iml
+.env

@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+venv/
+.idea
+.env
+baseball-alert.iml
+build.sh
+test.http
